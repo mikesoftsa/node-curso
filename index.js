@@ -10,7 +10,7 @@
 //     return `The username is ${userName}, the user is ${userAge} years old`
 // }
 
-// const showUserInfo = (userName, userAge) => `The username is ${userName}, the user is ${userAge} years old`
+const showUserInfo = (userName, userAge) => `The username is ${userName}, the user is ${userAge} years old`
 
-// console.log(showUserInfo('Jose', 30))
-// console.log(showUserInfo('Maria', 50))
+console.log(showUserInfo('Jose', 30))
+console.log(showUserInfo('Maria', 50))
